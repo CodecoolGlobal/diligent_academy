@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 new line
+=======
+Hello world
+>>>>>>> parent of 4afed05 (newone)

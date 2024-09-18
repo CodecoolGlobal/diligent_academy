@@ -40,6 +40,7 @@
     * Merge:
         * `git checkout master`: Switch to "master" branch
         * `git merge new-feature` Merge "new-feature" branch into "master"
+        * `git merge abort` Abort the current merge
 * Handling conflicts
 * Task:
     * Create a new branch, modify some files, and merge it into the master branch.
